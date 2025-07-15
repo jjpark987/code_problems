@@ -9,8 +9,11 @@ This repository contains the code problems and the github actions workflow for C
 
 ### Prerequisites
 
-- Python 3.10+
-- MySQL server
+- Git
+- GitHub Runner
+- Python 3.13.5
+- MySQL
+- Docker
 
 ### Installation
 
